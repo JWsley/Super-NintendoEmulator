@@ -1,0 +1,7 @@
+Reading config file C:\Users\T-GAMER\Downloads\Super-Nintendo\SNES9X\snes9x.conf.
+Saving	config file	C:\Users\T-GAMER\Downloads\Super-Nintendo\SNES9X\snes9x.conf
+No ROM file header found.
+Map_SA1LoROMMap
+"KIRBY SUPER DELUXE" [checksum ok] LoROM, 32Mbits, ROM+RAM+BAT+SA-1, NTSC, SRAM:64Kbits, ID:AKFE, CRC32:89D0F7DC
+Saving	config file	C:\Users\T-GAMER\Downloads\Super-Nintendo\SNES9X\snes9x.conf
+Saving	config file	C:\Users\T-GAMER\Downloads\Super-Nintendo\SNES9X\snes9x.conf
